@@ -1,2 +1,3 @@
-# fifteen_puzzle
-Fifteen puzzle
+# :unlock:Fifteen puzzle
+- realization with Python.
+- Manhattan distance algorithm and Priority Queue structure were used  
