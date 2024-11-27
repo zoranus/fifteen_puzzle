@@ -1,5 +1,6 @@
-# :unlock:Fifteen puzzle
-- realization with Python.
-- Manhattan distance algorithm and Priority Queue structure were used
-</br>
---> The program output solution steps in console -->
+# Fifteen puzzle
+- Realization with Python.
+- Manhattan distance algorithm and Priority Queue structure were used.
+  
+### Tools
+Python 3.7.4
